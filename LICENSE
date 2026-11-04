@@ -3,13 +3,28 @@ Copyright © 2026 달연어 (Dal Yeon-eo)
 Instagram: @dosalmon_ovo (https://www.instagram.com/dosalmon_ovo/)
 원본 주소: https://dalyeoneo-cmd.github.io/tools/
 
-이 저작물(코드, 디자인, 아이콘, 글 포함)은 크리에이티브 커먼즈
-저작자표시-비영리-동일조건변경허락 4.0 국제 라이선스(CC BY-NC-SA 4.0)에 따라
-이용할 수 있습니다.
+이 저작물은 크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 4.0 국제
+라이선스(CC BY-NC-SA 4.0)에 따라 이용할 수 있습니다.
+
+적용 범위: 달연어가 직접 만든 부분 전체 — 소스 코드, 디자인, 글을 포함합니다.
+이 페이지의 아이콘(icons/tools-icon-*, favicon.ico — 렌치 그림)은 달연어가 직접 그린
+그림으로, 이 라이선스에 포함됩니다.
+목록에 보이는 각 도구의 아이콘은 AI 이미지 생성 도구를 활용해 만든 것으로, 이 라이선스
+대상에서 제외하며 각 도구 저장소의 안내를 따릅니다. 목록에 연결된 각 도구는 해당
+저장소의 LICENSE를 따릅니다.
+외부 글꼴 등 제3자 구성요소는 각자의 라이선스를 따르며,
+자세한 내용은 THIRD_PARTY_NOTICES.txt 를 봐 주세요.
 
   - 저작자표시: 원저작자 "달연어 (Dal Yeon-eo)"와 원본 주소를 함께 밝혀야 해요.
   - 비영리: 판매, 유료 서비스, 광고 수익 등 영리 목적으로 쓸 수 없어요.
   - 동일조건변경허락: 고치거나 덧붙여서 공유할 때는 같은 라이선스로 공유해야 해요.
+
+개인적으로 쓰는 것은 자유입니다. 비영리인지 애매하거나 그 밖의 이용을 원하시면
+위 인스타그램으로 문의해 주세요. 따로 허락할 수 있습니다.
+
+[보증 및 책임] 이 저작물은 있는 그대로(as-is) 제공되며, 어떠한 보증도 하지 않습니다.
+이용으로 발생한 손해에 대해 저작권자는 책임을 지지 않습니다.
+(CC BY-NC-SA 4.0 전문 제5조에 해당하는 내용입니다.)
 
 라이선스 요약: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko
 라이선스 전문: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ko
@@ -20,13 +35,28 @@ Dal Yeon-eo's Small Tools
 Copyright (c) 2026 Dal Yeon-eo (달연어)
 Original: https://dalyeoneo-cmd.github.io/tools/
 
-This work (including code, design, icons and text) is licensed under the
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-License (CC BY-NC-SA 4.0).
+This work is licensed under the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+Scope: everything created by Dal Yeon-eo, including source code, design and text.
+This page's own icon (icons/tools-icon-*, favicon.ico — the wrench) was drawn by
+Dal Yeon-eo and is included in this license. The icons of the tools shown in the list
+were made with the help of an AI image generator; they are excluded from this license
+and follow the notices in each tool's repository. Each linked tool follows the LICENSE
+in its own repository.
+Third-party components such as web fonts remain under their own licenses;
+see THIRD_PARTY_NOTICES.txt.
 
   - Attribution: credit "Dal Yeon-eo (달연어)" and link to the original.
   - NonCommercial: you may not use it for commercial purposes.
   - ShareAlike: if you remix or build upon it, share under the same license.
+
+Personal use is free. For uses that may be commercial or anything else,
+contact the Instagram account above; separate permission may be granted.
+
+Warranty and liability: provided "as is", without warranty of any kind. The
+author is not liable for any damages arising from its use (see Section 5 of
+CC BY-NC-SA 4.0).
 
 Summary:   https://creativecommons.org/licenses/by-nc-sa/4.0/
 Full text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode

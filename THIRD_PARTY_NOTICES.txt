@@ -1,0 +1,25 @@
+달연어의 작은 도구들 — 제3자 구성요소 안내
+
+이 페이지는 아래 제3자 구성요소를 사용합니다.
+각 구성요소는 본 페이지의 라이선스(CC BY-NC-SA 4.0)가 아니라
+아래에 적힌 각자의 라이선스를 따릅니다.
+
+---
+
+이름: IBM Plex Sans KR
+만든 곳: IBM
+라이선스: SIL Open Font License 1.1
+주소: https://fonts.google.com/specimen/IBM+Plex+Sans+KR
+비고: Google Fonts에서 불러와 사용 (파일을 함께 배포하지 않음)
+
+---
+
+이름: 목록에 보이는 각 도구의 아이콘 (canvas-ho 아이콘, icons/animal-registration.png)
+만든 곳: AI 이미지 생성 도구를 활용해 제작
+라이선스: 이 라이선스(CC BY-NC-SA 4.0)의 적용 대상이 아님 — LICENSE 파일 참고
+비고: 사용한 생성 도구의 이용약관을 따름 (이 페이지 자체의 렌치 아이콘은 직접 그린 그림)
+
+---
+
+참고: 방문 통계에 GoatCounter(https://www.goatcounter.com/)를 사용합니다.
+페이지가 외부에서 불러오는 서비스이며, 이 저장소에 코드를 포함하지 않습니다.
