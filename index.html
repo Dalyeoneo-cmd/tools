@@ -7,7 +7,7 @@
 <meta name="description" content="달연어가 만든 작은 프로그램들을 모아 둔 곳">
 <meta name="author" content="달연어 (Dal Yeon-eo)">
 <meta property="og:title" content="달연어의 작은 도구들">
-<meta property="og:description" content="게임하면서, 생활하면서 필요해서 만든 작은 프로그램들">
+<meta property="og:description" content="작업하면서, 게임하면서, 생활하면서 필요해서 만든 작은 프로그램들">
 <meta property="og:image" content="icons/animal-registration.png">
 <meta name="theme-color" content="#FFE4D7">
 <link rel="icon" href="icons/animal-registration.png">
@@ -53,17 +53,13 @@ footer{text-align:center;font-size:12px;color:var(--muted);line-height:1.7}
 footer b{color:var(--ink);font-weight:600}
 @media (prefers-reduced-motion:reduce){.card{transition:none}}
 </style>
-<!-- 방문 통계(GoatCounter). 쿠키를 쓰지 않고 개인정보를 모으지 않아요.
-     통계 보기: https://dalyeoneo-tools.goatcounter.com -->
-<script data-goatcounter="https://dalyeoneo-tools.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
 <div class="wrap">
   <header>
     <div class="mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L4 17v3h3l5.3-5.3a4 4 0 0 0 5.4-5.4l-2.6 2.6-2.4-.6-.6-2.4z"/></svg></div>
     <h1>달연어의 작은 도구들</h1>
-    <p class="intro">게임하면서, 생활하면서 “이런 게 있으면 좋겠다” 싶어서 만든 것들을 모아 두는 곳이에요.</p>
+    <p class="intro">작업하면서, 게임하면서, 생활하면서 “이런 게 있으면 좋겠다” 싶어서 만든 것들을 모아 두는 곳이에요.</p>
     <span class="count" id="count"></span>
   </header>
 
@@ -71,7 +67,7 @@ footer b{color:var(--ink);font-weight:600}
 
   <footer>
     만든 사람 <b>달연어 (Dal Yeon-eo)</b><br>
-    모든 도구는 무료이고, 로그인 없이 쓸 수 있어요.<br>방문 수만 익명으로 집계해요.
+    모든 도구는 무료이고, 로그인 없이 쓸 수 있어요.
   </footer>
 </div>
 
@@ -82,6 +78,14 @@ footer b{color:var(--ink);font-weight:600}
   - added: 추가한 날짜 (최근 30일 안이면 NEW 표시가 붙어요)
 */
 const PROJECTS = [
+  {
+    name: "캔버스 호수 계산기",
+    desc: "캔버스 호수와 실제 크기를 바로 바꿔 보고, 전시 벽면에 작품을 어떻게 걸지 미리 배치해 보는 도구",
+    url: "https://dalyeoneo-cmd.github.io/canvas-ho/",
+    icon: "https://dalyeoneo-cmd.github.io/canvas-ho/icons/icon-192.png",
+    tags: ["작업 · 전시 준비", "휴대폰 · PC"],
+    added: "2026-11-04"
+  },
   {
     name: "우리 섬 주민 등록부",
     desc: "모여봐요 동물의 숲 주민이 섬에 오고, 함께 지내고, 떠나기까지를 기록하는 기록장",
